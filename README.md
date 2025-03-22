@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi there, I'm **Kgomotso Dithebe**! ✨🚀🔥
 
-🚀 **Full-Stack Engineer | Blazor | .NET Core | Angular | Cloud Enthusiast**  
+🚀 **Full-Stack Engineer | Blazor | .NET Core | Next.Js | Angular | Cloud Enthusiast**  
 📍 South Africa | Passionate about building scalable web & mobile applications 🌍💡💻  
 
 ---
@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack & Skills ⚙️💻🚀
 
 ### 💻 Backend
-- C#, .NET Core, ASP.NET, Entity Framework, RESTful APIs
+- C#, .NET Core, ASP.NET, TypeScript, Node.Js, Entity Framework, RESTful APIs
 
 ### 🎨 Frontend
-- Angular, Blazor, JavaScript, TypeScript, HTML/CSS
+- JavaScript, Blazor, Next.Js, Angular, TypeScript, HTML/CSS
 
 ### 🗄️ Databases
-- SQL Server, PostgreSQL
+- SQL Server, PostgreSQL, MySQL
 
 ### ☁️ DevOps & Cloud
 - Docker, Azure, VPS Hosting
